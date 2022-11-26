@@ -1,0 +1,7 @@
+packages:
+  - package: fivetran/fivetran_log
+    version: 0.6.3
+
+    ##https://www.youtube.com/watch?v=u-bxF0ymy5I
+    
+
